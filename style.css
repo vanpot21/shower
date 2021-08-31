@@ -18,7 +18,7 @@ h1 {
 a {
     text-decoration: none;
     font-size: 20px;
-	font-color: blue;
+	color: blue;
 	border: width 2px;
     border-style: ridge;
     border-color:black;
@@ -28,5 +28,5 @@ a {
     z-index: 1;
 }
 a:hover {
-	color: violet;
+	color: pink;
 }
