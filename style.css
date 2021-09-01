@@ -19,7 +19,7 @@ a {
     text-decoration: none;
     font-size: 20px;
 	color: blue;
-	border: width 2px;
+	border-width: 2px;
     border-style: ridge;
     border-color:black;
     padding: 10px;
